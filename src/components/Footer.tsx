@@ -20,7 +20,7 @@ export default function Footer() {
           </div>
 
           <div>
-            <h4 className="text-sm font-semibold text-foreground mb-4">
+            <h4 className="text-sm font-semibold text-foreground mb-4 ">
               Product
             </h4>
             <div className="flex flex-col gap-2.5">
