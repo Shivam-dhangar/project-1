@@ -18,7 +18,6 @@ export default function Contact() {
           <div className="space-y-6">
             {[
               { icon: Mail, label: "Email", value: "hello@onewatch.ai" },
-              { icon: Phone, label: "Phone", value: "+1 (555) 123-4567" },
               { icon: MapPin, label: "Office", value: "Dhamnod, Indore, Madhya Pradesh" },
             ].map((c) => (
               <div key={c.label} className="floating-card p-6 flex items-center gap-4">
